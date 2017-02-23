@@ -1,4 +1,4 @@
-this is vs2015 project ,you can build it directly
+this is vs2015 project 
 ### face alignment 68 pts
 it is sdm method  https://github.com/RoboPai/sdm
 
